@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Guilherme Gon Wiemes
 I'm a technical course student in Systems Development, and, a competitor in FIRST LEGO League Challenge with the team Robo Rangers. In the UNEARTHED season, we scored 1st place Champion's Award in the state tournment, 12th among 114 elite teams in the nationals,and, qualified for the Georgia Ramblin' Robots Invitationals Championship, in June 2026.
 
 
