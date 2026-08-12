@@ -1,5 +1,5 @@
 # Guilherme Gon Wiemes
-I'm a technical course student in Systems Development, and, a competitor in FIRST LEGO League Challenge with the team Robo Rangers. In the UNEARTHED season, we scored 1st place Champion's Award in the state tournment, 12th among 114 elite teams in the nationals,and, qualified for the Georgia Ramblin' Robots Invitationals Championship, in June 2026.
+I'm a technical course student in Systems Development, and, a competitor in FIRST LEGO League Challenge with the team Robo Rangers. In the UNEARTHED season, we scored 1st place Champion's Award in the state tournment, 12th among 114 elite teams in the nationals,and, qualified for the Georgia Ramblin' Robots Invitationals Championship, in June 2026. I'm also a competitor in Worldskills at the Industry 4.0 skill (#48), competing at Worldskills, I got the first place in the regional championship of the state of Santa Catarina (Brazil).
 
 
 # 💻 Tech Stack:
