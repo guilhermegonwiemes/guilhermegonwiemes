@@ -5,5 +5,5 @@ I'm a technical course student in Systems Development, and, a competitor in FIRS
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/node--red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ---
-[![](https://visitcount.itsvg.in/api?id=guilhermegonwiemes&icon=0&color=6)](https://visitcount.itsvg.in)
+
 
