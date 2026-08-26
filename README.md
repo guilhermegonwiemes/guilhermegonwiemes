@@ -25,7 +25,7 @@ I am a Systems Development student passionate about building scalable software s
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&v=2)
+<img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&style=for-the-badge&logoColor=white">
 ![Arch](https://img.shields.io/badge/Arch-00A2FF?style=for-the-badge&logo=archlinux&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/CachyOS-40bfbf?style=for-the-badge&logo=cachyos&logoColor=white)
 ---
