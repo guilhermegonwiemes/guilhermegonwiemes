@@ -16,10 +16,11 @@ I am a Systems Development student passionate about building scalable software s
 **WorldSkills Competition**
 * 1st Place Regional Champion (Santa Catarina, Brazil) — Industry 4.0 (#48)
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=guilhermegonwiemes&theme=tokyonight)](https://github.com/your-username)
-
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/node--red-8F0000?style=for-the-badge&logo=nodered&logoColor=white)
 ---
+
+
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=guilhermegonwiemes&theme=tokyonight)](https://github.com/your-username)
 
 
