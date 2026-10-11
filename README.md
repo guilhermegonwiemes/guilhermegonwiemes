@@ -30,6 +30,6 @@ I am a Systems Development student passionate about building scalable software s
 ![CachyOS](https://img.shields.io/badge/CachyOS-40bfbf?style=for-the-badge&logo=cachyos&logoColor=white)
 ---
 
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=guilhermegonwiemes&theme=tokyonight)](https://github.com/your-username)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=guilhermegonwiemes&theme=tokyonight)](https://github.com/guilhermegonwiemes)
 
 
