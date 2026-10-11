@@ -8,7 +8,7 @@ I am a Systems Development student passionate about building scalable software s
 
 ## Key Achievements
 
-**FIRST LEGO League Challenge (Team Robo Rangers)**
+**FIRST LEGO League Challenge (Robo Rangers team)**
 * 2nd Place Champion's Award — Georgia Ramblin' Robots Invitational Championship (June 2026)
 * 12th Place Overall (out of 114 elite teams) — Brazilian National Championship
 * 1st Place Champion's Award — Santa Catarina Regional Championship (UNEARTHED Season)
